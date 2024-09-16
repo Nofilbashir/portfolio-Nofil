@@ -31,7 +31,7 @@ const Footer = ({color}) => {
     </div>
 
       <div style={{color:color}}>
-        <h4>2024 &copy; Zeeshan. All rights reserved.</h4>
+        <h4>2024 &copy; Nofil. All rights reserved.</h4>
       </div>
     </div>
   )

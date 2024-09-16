@@ -119,7 +119,7 @@ export default function Home() {
         </div>
         <div className="flex_row">
 
-        <p className={`${styles.hero_subtitle} para_text`}>I&#39;m a Senior Product Designer with 10+ years of experience in creating impactful user experiences and building 9 startups from the ground up. My expertise includes leading design teams, user research, and product architecture, with a strong focus on design strategy and user-centered design. I am committed to combining creativity with technical skills to deliver high-quality, ethical, and accessible design solutions.</p>
+        <p className={`${styles.hero_subtitle} para_text`}>Intellectually curious professional with 5+ years of experience delivering enterprise solutions in Mobility and Core Analytics domains. Expertise in conceptualizing, designing, and coding technical solutions using JavaScript technology stacks. Skilled in JavaScript frameworks, environments, and libraries including Node.js, Nest.js, Express.js, MongoDB, React.js and Next.js to solve complex business problems.</p>
         </div>
         <div className="flex_row_spaced_between width100 banner_bottom_bar">
 

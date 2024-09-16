@@ -9,8 +9,8 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: "Zeeshan",
-  description: "Portfolio App Zeeshan",
+  title: "Nofil",
+  description: "Portfolio App Nofil",
 };
 
 const styles ={

@@ -79,7 +79,7 @@ const Page = () => {
         <Backbtn color="white"/>
         <main className={"flex_column gap2rem"} style={{paddingTop:"5rem"}} >
         <div className={`${styles.Hero_container} flex_row`} >
-        <StrechtText text="M.ZEESHAN" color="white"/>
+        <StrechtText text="Nofil" color="white"/>
         </div>
         {/* <div className="flex_row">
 
