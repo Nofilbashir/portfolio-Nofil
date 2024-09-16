@@ -55,6 +55,7 @@ const ScrollSections = () => {
           <span>FitTech</span>
           <span>Case Study</span>
         </div>
+        
         </div>
       </Link>
       <Link href="/projects/1"className="section width100"   id="section2">
